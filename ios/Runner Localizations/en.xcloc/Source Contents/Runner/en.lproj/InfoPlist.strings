@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "parmartours";
+/* Bundle name */
+"CFBundleName" = "Runner";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Do you want share your location?";
